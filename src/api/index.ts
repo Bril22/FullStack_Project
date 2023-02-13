@@ -1,0 +1,3 @@
+export const API_URL = "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/734b85c6-c1f5-4cd6-843d-b892b6fb88d0/db.json?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230210%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230210T174934Z&X-Amz-Expires=86400&X-Amz-Signature=0c357afbe3916e4a068109d7c459fffa1343bcbf8e18e6862563d3ef2a01599e&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22db.json%22&x-id=GetObject";
+
+export const API_2_URL = "http://localhost:3000/dataBase"
